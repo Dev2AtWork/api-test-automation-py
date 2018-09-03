@@ -1,0 +1,9 @@
+latitude:float64
+longitude:float64
+timezone:object
+currently:object
+minutely:object
+hourly:object
+daily:object
+flags:object
+offset:int64

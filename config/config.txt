@@ -1,0 +1,2 @@
+baseURI;authKey;coordinates
+https://api.darksky.net/forecast;7a3f192f51ce44090d7309c03385e2ae;37.8267,-122.4233
